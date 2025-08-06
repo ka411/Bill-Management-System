@@ -19,3 +19,21 @@ Edit
 🗃️ Simple local storage with SQLite
 
 🖥️ Clean and minimal Python GUI
+
+⚙️ How to Run
+Clone the repository
+
+bash
+Copy
+Edit
+git clone https://github.com/<your-username>/Bill-Management-System.git
+cd Bill-Management-System
+Install requirements (if any)
+(Not specified in repo yet. If requirements.txt exists, include this step)
+
+Run the application
+
+bash
+Copy
+Edit
+python frontend.py
