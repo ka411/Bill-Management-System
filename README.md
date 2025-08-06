@@ -20,20 +20,21 @@ Edit
 
 🖥️ Clean and minimal Python GUI
 
-⚙️ How to Run
-Clone the repository
+📦 Requirements
+Python 3.x
 
-bash
-Copy
-Edit
-git clone https://github.com/<your-username>/Bill-Management-System.git
-cd Bill-Management-System
-Install requirements (if any)
-(Not specified in repo yet. If requirements.txt exists, include this step)
+SQLite3 (bundled with Python)
 
-Run the application
+Tkinter (usually included with Python)
 
-bash
-Copy
-Edit
-python frontend.py
+🔧 To-Do
+ Add authentication (login system)
+
+ Export bill data to CSV/PDF
+
+ Improve UI layout
+
+ Add bill categories/tags
+
+🙌 Contribution
+Feel free to open issues or submit pull requests to improve functionality or design!
